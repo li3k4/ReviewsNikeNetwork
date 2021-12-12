@@ -1,0 +1,13 @@
+.preview{
+  padding: 10px 10px 10px 10px;
+  margin-left: 5%;
+  background-color: #7e9cd8;
+  border-radius: 30px;
+}
+.content{
+  display: flex;
+  flex-flow: column wrap;
+}
+.smallImg{
+  max-width: 130px;
+}

@@ -1,0 +1,33 @@
+.main{
+  margin-left: 5%;
+  display: flex;
+  align-items: center;
+}
+.img{
+  display: block;
+  width: 50px;
+
+}
+
+.field{
+  display: flex;
+    flex-flow: column wrap;
+}
+.area{
+  margin: 10px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: #7592cc;
+  background-color: #7d9cda;
+  font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+}
+.btnLike{
+  width: 60px;
+  height: 25px;
+  border-color: #7592cc;
+  background-color: #7d9cda;
+  border-style: solid;
+  border-radius: 30px;
+
+
+}

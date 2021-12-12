@@ -1,0 +1,8 @@
+.main{
+display: grid;
+grid-template-columns: 2fr 10fr;
+
+grid-template-areas: 
+"n m "
+"n f";
+}

@@ -1,0 +1,35 @@
+
+.header {
+  grid-area: h;
+  overflow: hidden;
+  padding: 30px 20px;
+  display: block;
+}
+
+.item{
+  float: left;
+  text-align: right;
+  font-size: 18px;
+  float: right;
+}
+
+.a{
+  color:rgb(0, 0, 0);
+  padding: 10px;
+  text-decoration: none;
+  
+}
+
+.item a.active{
+  background-color:  #7e9cd8;
+  border-radius: 30px;
+  border-width: 40px;
+
+}
+
+.header img{
+    width: 70px;
+}
+
+
+  

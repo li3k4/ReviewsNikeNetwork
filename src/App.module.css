@@ -1,0 +1,21 @@
+.app {
+  background-color: #91a9d9;
+  width:100%;
+ margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-template-areas: 
+  "h h "
+  "c c"
+  "f f";
+  grid-gap: 10px;
+
+}
+
+.content{
+  grid-area: c;
+  display: block;
+  text-align: center;
+}
+
+  

@@ -1,0 +1,19 @@
+.main {
+  display: block;
+}
+
+.scrollmenu {
+    display: inline-flex;
+}
+
+.scrollmenu a{
+    text-decoration: none;
+    color: black;
+}
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}

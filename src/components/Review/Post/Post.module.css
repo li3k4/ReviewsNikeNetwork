@@ -1,0 +1,22 @@
+.main{
+  display: flex;
+
+  margin: 5%;
+}
+.img{
+  width: 50px;
+}
+.text_btn{
+  display: flex;
+    flex-flow: column wrap;
+}  
+.btnLike{
+  width: 60px;
+  height: 25px;
+  border-color: #7592cc;
+  background-color: #7d9cda;
+  border-style: solid;
+  border-radius: 30px;
+
+
+}

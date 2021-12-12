@@ -1,0 +1,27 @@
+.img{
+    width: 50px;
+  }
+
+
+.dialogs_item{
+    display: flex;
+    margin: 10px;
+}
+
+.name{
+    text-decoration: none;
+    color: black;
+    padding: 0.7rem;
+    margin-left: 0.5rem;
+}
+
+.active{
+    background-color:  #7d9cda;
+    border-radius: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
